@@ -8,6 +8,7 @@ namespace PracticaAPIRedez
 {
     class Program
     {
+        /*Emiliano Alejandro Santos Gonzalez y Harim Jesus Enrique Dueñas Davila que va :)*/
         static void Main(string[] args)
         {
             //METODO HTTP GET
